@@ -866,6 +866,7 @@ The following standard options are available (see http://facebook.github.io/reac
 - `autoCapitalize`
 - `autoCorrect`
 - `autoFocus`
+- `autoGrow`
 - `bufferDelay`
 - `clearButtonMode`
 - `editable`
